@@ -8,6 +8,10 @@ AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of dista
 - Make Sure You Have Visual Studio Installed on Your Computer
 - [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
+
+Contact me here -  https://t.me/hidden9090
+
+
 ### Compiling :
 1. Open the solution file (.sln).
 2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
@@ -66,3 +70,6 @@ At present, the application integrates several embedded DLLs (further elaboratio
 ## Licensing
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](/LICENSE)
 The entitlement to this project adheres to the MIT License - refer to the [LICENSE](/LICENSE) file for comprehensive elucidation.
+
+
+Contact me here -  https://t.me/hidden9090
