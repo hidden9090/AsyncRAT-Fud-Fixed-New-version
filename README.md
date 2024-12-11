@@ -1,7 +1,7 @@
 # AsyncRAT
 AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security.
 
-## How to Use
+## How to Use  
 
 - Download the project to your computer as zip
 - Extract Project to Folder.
