@@ -76,4 +76,4 @@ At present, the application integrates several embedded DLLs (further elaboratio
 The entitlement to this project adheres to the MIT License - refer to the [LICENSE](/LICENSE) file for comprehensive elucidation.
 
 
-Contact me here -  https://t.me/hidden9090
+Contact me here -  https://t.me/hidden9090     
