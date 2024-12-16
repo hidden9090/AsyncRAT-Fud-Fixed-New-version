@@ -77,3 +77,6 @@ The entitlement to this project adheres to the MIT License - refer to the [LICEN
 
 
 Contact me here -  https://t.me/hidden9090     
+
+
+https://t.me/+1tDzjSCGDDs0ODA9
