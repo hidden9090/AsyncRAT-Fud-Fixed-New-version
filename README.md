@@ -2,6 +2,10 @@
 AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security.
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
  
  
  
@@ -14,6 +18,10 @@ CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 
 Contact me here -  https://t.me/hidden9090     
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 ### Compiling :
@@ -66,7 +74,7 @@ At present, the application integrates several embedded DLLs (further elaboratio
 
 | Plugin | Origin |
 | ------ | ------ |
-| StealerLib | [gitlab.com/thoxy/stealerlib] |.
+| StealerLib | [gitlab.com/thoxy/stealerlib] |.  
 
 ## LEGAL DISCLAIMER
 ##### I, as the creator, alongside all those engaged in the conception and realization of this application, hereby disclaim any culpability for consequences and/or destruction resulting from this software. You shoulder the complete onus for your deeds and concede that this software has been crafted solely for educational pursuits. Its intended use DOES NOT encompass malicious deployment or application on systems you lack ownership of or explicit authorization to operate and utilize this software on. By opting to employ this software, you inherently endorse the aforementioned stipulations.
@@ -77,6 +85,10 @@ The entitlement to this project adheres to the MIT License - refer to the [LICEN
 
 
 Contact me here -  https://t.me/hidden9090     
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 https://t.me/+1tDzjSCGDDs0ODA9
