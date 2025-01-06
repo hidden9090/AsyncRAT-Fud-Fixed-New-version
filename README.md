@@ -3,7 +3,7 @@ AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of dista
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090  
 
-If not replying you than  I'm busy in that case , please 
+If not replying you than  I'm busy in that case , please  
 Text my team 
 (https://t.me/hidden9090team)
  
